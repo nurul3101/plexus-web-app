@@ -5,6 +5,6 @@
 
 Run the following commands:
 
- ##npm install
- ##npm start
- ##Go to localhost:8080
+ ## 1)npm install
+ ## 2)npm start
+ ## 3)Go to localhost:8080
